@@ -4,5 +4,5 @@ A collection of real-world data analyses demonstrating **statistical methods** (
 
 ## Projects
 1. **[School Performance Analysis](01-School-Performance-Analysis)**  
-   Analyzes math score disparities between two schools, adjusting for family income using statistical methods (ANCOVA, quantile analysis, KS tests).
+   Analyzes math score disparities between two schools, adjusting for family income.
 
