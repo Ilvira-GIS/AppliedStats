@@ -8,3 +8,8 @@ A collection of real-world data analyses demonstrating **statistical methods** (
 
 2. **[Time Between Earthquakes](02-Time-Between-Earthquakes)**  
    Compute inter-arrival times (time between quakes above magnitude 5.5) to estimate risk probabilities.
+
+3. **[Battery Degradation Consistency](03-Battery-Degradation-Consistency)**  
+   Compare variance in capacity degradation across different cycling conditions (e.g., temperature, discharge rate) to determine if certain conditions lead to more inconsistent battery performance.
+
+   
