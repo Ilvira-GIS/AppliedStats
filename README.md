@@ -12,4 +12,7 @@ A collection of real-world data analyses demonstrating **statistical methods** (
 3. **[Battery Degradation Consistency](03-Battery-Degradation-Consistency)**  
    Compare variance in capacity degradation across different cycling conditions (e.g., temperature, discharge rate) to determine if certain conditions lead to more inconsistent battery performance.
 
+4. **[Complaint Resolution Times](04-Complaint-Resolution-Times)**  
+   The goal is to statistically analyse how long it takes to resolve complaints, by examining average and median processing times, constructing confidence intervals, and testing for significant differences between the two companies.
+
    
