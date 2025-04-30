@@ -15,4 +15,5 @@ A collection of real-world data analyses demonstrating **statistical methods** (
 4. **[Complaint Resolution Times](04-Complaint-Resolution-Times)**  
    Analyse how long it takes to resolve complaints for the major health insurance companies.
 
-   
+5. **[Challenger O-Ring Failure](05-Challenger-O-Ring-Failure)**  
+   Estimate uncertainty around the probability of failure at specific temperatures.   
