@@ -4,9 +4,15 @@ The Space Shuttle Challenger exploded 73 seconds after launch on January 28, 198
 
 **Key Questions**:
 
-- Did temperature affect O-ring failure probability? (Yes)
-- How extreme were Challenger's launch conditions? (Far beyond operational limits)
-- Were engineers' warnings statistically justified?  (Absolutely)
+- Did temperature affect O-ring failure probability?
+  
+  (Yes)
+- How extreme were Challenger's launch conditions?
+
+   (Far beyond operational limits)
+- Were engineers' warnings statistically justified?
+
+   (Absolutely)
 
 
 **Methods**
