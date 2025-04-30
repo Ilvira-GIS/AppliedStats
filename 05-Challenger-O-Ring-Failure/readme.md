@@ -4,7 +4,9 @@ The Space Shuttle Challenger exploded 73 seconds after launch on January 28, 198
 
 **Key Questions**:
 
-- How long does it typically take to resolve complaints in health insurance companies?
+- Did temperature affect O-ring failure probability? (Yes)
+- How extreme were Challenger's launch conditions? (Far beyond operational limits)
+- Were engineers' warnings statistically justified?  (Absolutely)
 
 
 **Methods**
@@ -15,3 +17,6 @@ The Space Shuttle Challenger exploded 73 seconds after launch on January 28, 198
 
 **References**:
 
+Report of the Presidential Commission on the Space Shuttle Challenger Accident. Vol. 1, chap. 2. Washington, DC: NASA, 1986. https://www.nasa.gov/history/rogersrep/v1ch2.htm.
+
+"How Record-Setting Cold Contributed to the Space Shuttle Challenger Disaster on Jan. 28, 1986." AccuWeather. https://www.accuweather.com/en/space-news/how-record-setting-cold-contributed-to-the-space-shuttle-challenger-disaster-on-jan-28-1986/337486.
