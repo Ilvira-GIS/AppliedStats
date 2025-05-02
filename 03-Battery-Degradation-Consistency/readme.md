@@ -9,7 +9,11 @@ To statistically evaluate how different operational conditions affect the unifor
 
 - Key impedance parameters (Re and Rct)
 
+**Key questions**:
 
+*Does temperature affect variance in impedance metrics?*
+
+*Does Impedance Variance (Re) Increase in Late-Life Cycles?*
 
 References:
 
