@@ -10,7 +10,7 @@ A collection of real-world data analyses demonstrating **statistical methods** (
    Compute inter-arrival times (time between quakes above magnitude 5.5) to estimate risk probabilities.
 
 3. **[Battery Degradation Consistency](03-Battery-Degradation-Consistency)**  
-   Compare capacity degradation to determine if certain conditions (e.g., temperature, discharge rate) lead to more inconsistent battery performance.
+   Statistically evaluate how different operational conditions affect the uniformity of lithium-ion battery degradation.
 
 4. **[Complaint Resolution Times](04-Complaint-Resolution-Times)**  
    Analyse how long it takes to resolve complaints for the major health insurance companies.
