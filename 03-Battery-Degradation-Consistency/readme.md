@@ -1,6 +1,13 @@
-**Battery Degradation Consistency: F-Tests**
+**Battery Aging Patterns: Permutation testing**
 
-Compare variance in capacity degradation across different experimental conditions (e.g., temperature, discharge rate) to identify factors causing inconsistent battery performance.
+**Objective**:
+To statistically evaluate how different operational conditions affect the uniformity of lithium-ion battery degradation by comparing performance metric variances across:
+
+- Temperature regimes (24°C vs. 43°C)
+
+- Cycle life stages (early vs. late cycles)
+
+- Key impedance parameters (Re and Rct)
 
 
 
