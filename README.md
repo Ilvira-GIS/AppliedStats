@@ -17,3 +17,6 @@ A collection of real-world data analyses demonstrating **statistical methods** (
 
 5. **[Challenger O-Ring Failure](05-Challenger-O-Ring-Failure)**  
    Estimate uncertainty around the probability of failure at specific temperatures.   
+
+6. **[Trait-Differentiation-Between-Crops](06-Trait-Differentiation-Between-Crops)**  
+   Determine which plant traits significantly differ between domesticated and wild crop accessions.
